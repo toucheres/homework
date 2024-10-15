@@ -18,5 +18,17 @@
     <ClCompile Include="work1.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="work2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="work3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="work4.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="work5.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
