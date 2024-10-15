@@ -127,11 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="work1.c" />
-    <ClCompile Include="work2.c" />
-    <ClCompile Include="work3.c" />
-    <ClCompile Include="work4.c" />
-    <ClCompile Include="work5.c" />
+    <ClCompile Include="work1 24.10.15.c" />
+    <ClCompile Include="work2 24.10.15.c" />
+    <ClCompile Include="work3 24.10.15.c" />
+    <ClCompile Include="work4 24.10.15.c" />
+    <ClCompile Include="work5 24.10.15.c" />
+    <ClCompile Include="workadd1 24.10.15.c" />
+    <ClCompile Include="workadd2 24.10.15.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
