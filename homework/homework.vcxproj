@@ -127,6 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="work1 24.10.22.c" />
+    <ClCompile Include="work2 24.10.22.c" />
+    <ClCompile Include="work3 24.10.22.c" />
+    <ClCompile Include="work4 24.10.22.c" />
+    <ClCompile Include="work5 24.10.22.c" />
+    <ClCompile Include="随堂测验.c" />
     <ClCompile Include="work1 24.10.15.c" />
     <ClCompile Include="work2 24.10.15.c" />
     <ClCompile Include="work3 24.10.15.c" />

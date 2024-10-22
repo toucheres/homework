@@ -45,5 +45,23 @@
     <ClCompile Include="workadd5 24.10.16.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="随堂测验.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="work1 24.10.22.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="work2 24.10.22.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="work3 24.10.22.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="work4 24.10.22.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="work5 24.10.22.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
