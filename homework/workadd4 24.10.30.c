@@ -1,62 +1,62 @@
-#define _CRT_SECURE_NO_WARNINGS
-
-#include<stdio.h>
-#include<math.h>
-int main()
-{
-	int line = 0;
-	scanf("%d", &line);
-	while (line--)
-	{
-		int hig = 0;
-		scanf("%d", &hig);
-
-
-		if (hig == 1)
-		{
-			printf("*");
-			continue;
-		}
-
-		for (int i = 0; i < hig; i++)
-		{
-			if (i == 0)
-			{
-				for (int tp3 = 0; tp3 < hig - 1; tp3++)
-				{
-					printf(" ");
-				}
-				printf("*");
-				printf("\n");
-				continue;
-			}
-
-			if (i == hig - 1)
-			{
-			
-				for (int tp = 0; tp < 2*hig-1; tp++)
-				{
-					printf("*");
-				}
-			
-				continue;
-			}
-
-			for (int tp2 = 0; tp2 < hig - i - 1; tp2++)
-			{
-				printf(" ");
-			}
-			printf("*");
-			for (int tp4 = 0; tp4 < 2 * i -1; tp4++)
-			{
-				printf(" ");
-			}
-			printf("*\n");
-		}
-	}
-	printf("\n");
-	return 0;
-}
+//#define _CRT_SECURE_NO_WARNINGS
+//
+//#include<stdio.h>
+//#include<math.h>
+//int main()
+//{
+//	int line = 0;
+//	scanf("%d", &line);
+//	while (line--)
+//	{
+//		int hig = 0;
+//		scanf("%d", &hig);
+//
+//
+//		if (hig == 1)
+//		{
+//			printf("*");
+//			continue;
+//		}
+//
+//		for (int i = 0; i < hig; i++)
+//		{
+//			if (i == 0)
+//			{
+//				for (int tp3 = 0; tp3 < hig - 1; tp3++)
+//				{
+//					printf(" ");
+//				}
+//				printf("*");
+//				printf("\n");
+//				continue;
+//			}
+//
+//			if (i == hig - 1)
+//			{
+//			
+//				for (int tp = 0; tp < 2*hig-1; tp++)
+//				{
+//					printf("*");
+//				}
+//			
+//				continue;
+//			}
+//
+//			for (int tp2 = 0; tp2 < hig - i - 1; tp2++)
+//			{
+//				printf(" ");
+//			}
+//			printf("*");
+//			for (int tp4 = 0; tp4 < 2 * i -1; tp4++)
+//			{
+//				printf(" ");
+//			}
+//			printf("*\n");
+//		}
+//	}
+//	printf("\n");
+//	return 0;
+//}
 
 
 
