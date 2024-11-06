@@ -3,19 +3,24 @@
 #include <stdio.h>
 
 int countTrailingZerosInFactorial(int n) {
-    int count = 0;
-    while (n >= 5) {
-        n /= 5;
-        count += n;
-    }
-    return count;
+	int count = 0;
+	while (n >= 5) {
+		n /= 5;
+		count += n;
+	}
+	return count;
 }
 
 int main() {
-    int n = 100; // 要计算的数字
-    int result = countTrailingZerosInFactorial(n);
-    printf("%d", result); // 输出100!末尾零的个数
-    return 0;
+	int line = 0;
+	scanf("%d", &line);
+	while (line--) {
+		int n;
+		scanf("%d", &n);
+		int result = countTrailingZerosInFactorial(n);
+		printf("%d\n", result); // 输出100!末尾零的个数}
+	}
+	return 0;
 }
 
 
