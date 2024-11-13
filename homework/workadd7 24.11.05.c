@@ -10,18 +10,18 @@ int countTrailingZerosInFactorial(int n) {
 	}
 	return count;
 }
-
-int main() {
-	int line = 0;
-	scanf("%d", &line);
-	while (line--) {
-		int n;
-		scanf("%d", &n);
-		int result = countTrailingZerosInFactorial(n);
-		printf("%d\n", result); // 输出100!末尾零的个数}
-	}
-	return 0;
-}
+//
+//int main() {
+//	int line = 0;
+//	scanf("%d", &line);
+//	while (line--) {
+//		int n;
+//		scanf("%d", &n);
+//		int result = countTrailingZerosInFactorial(n);
+//		printf("%d\n", result); // 输出100!末尾零的个数}
+//	}
+//	return 0;
+//}
 
 
 //7: 100!的末尾有多少个零？

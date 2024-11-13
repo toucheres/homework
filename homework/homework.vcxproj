@@ -42,7 +42,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v143</PlatformToolset>
+    <PlatformToolset>ClangCL</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
@@ -130,18 +130,24 @@
     <ClCompile Include="work1 24.10.22.c" />
     <ClCompile Include="work1 24.10.30.c" />
     <ClCompile Include="work1 24.11.05.c" />
+    <ClCompile Include="work1 24.11.12.c" />
     <ClCompile Include="work2 24.10.22.c" />
     <ClCompile Include="work2 24.10.30.c" />
     <ClCompile Include="work2 24.11.05.c" />
+    <ClCompile Include="work2 24.11.12.c" />
     <ClCompile Include="work3 24.10.22.c" />
     <ClCompile Include="work3 24.10.30.c" />
     <ClCompile Include="work3 24.11.05.c" />
+    <ClCompile Include="work3 24.11.12.c" />
     <ClCompile Include="work4 24.10.22.c" />
     <ClCompile Include="work4 24.10.30.c" />
     <ClCompile Include="work4 24.11.05.c" />
+    <ClCompile Include="work4 24.11.12.c" />
     <ClCompile Include="work5 24.10.22.c" />
     <ClCompile Include="work5 24.10.30.c" />
     <ClCompile Include="work5 24.11.05.c" />
+    <ClCompile Include="work5 24.11.12.c" />
+    <ClCompile Include="work6 24.11.12.c" />
     <ClCompile Include="workadd1 24.10.22.c" />
     <ClCompile Include="workadd1 24.10.30.c" />
     <ClCompile Include="workadd1 24.11.05.c" />
@@ -159,6 +165,7 @@
     <ClCompile Include="workadd5 24.11.05.c" />
     <ClCompile Include="workadd6 24.11.05.c" />
     <ClCompile Include="workadd7 24.11.05.c" />
+    <ClCompile Include="隋唐小车.c" />
     <ClCompile Include="隋唐测验.c" />
     <ClCompile Include="随堂测验.c" />
     <ClCompile Include="work1 24.10.15.c" />
