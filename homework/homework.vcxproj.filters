@@ -171,5 +171,47 @@
     <ClCompile Include="work6 24.11.12.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="隋唐小车4.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="work1 24.11.19.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="work2 24.11.19.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="work3 24.11.19.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="work4 24.11.19.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="work5 24.11.19.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="work6 24.11.19.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="work1 24.11.26.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="work2 24.11.26.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="work3 24.11.26.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="work4 24.11.26.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="work5 24.11.26.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="work6 24.11.26.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="work7 24.11.26.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
