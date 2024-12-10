@@ -213,5 +213,17 @@
     <ClCompile Include="work7 24.11.26.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="work2 24.12.03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="work3 24.12.03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="work4 24.12.03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="work5 24.12.03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
