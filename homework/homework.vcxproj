@@ -133,6 +133,7 @@
     <ClCompile Include="work1 24.11.12.c" />
     <ClCompile Include="work1 24.11.19.c" />
     <ClCompile Include="work1 24.11.26.c" />
+    <ClCompile Include="work1 24.12.10.c" />
     <ClCompile Include="work2 24.10.22.c" />
     <ClCompile Include="work2 24.10.30.c" />
     <ClCompile Include="work2 24.11.05.c" />
@@ -140,6 +141,7 @@
     <ClCompile Include="work2 24.11.19.c" />
     <ClCompile Include="work2 24.11.26.c" />
     <ClCompile Include="work2 24.12.03.cpp" />
+    <ClCompile Include="work2 24.12.10.c" />
     <ClCompile Include="work3 24.10.22.c" />
     <ClCompile Include="work3 24.10.30.c" />
     <ClCompile Include="work3 24.11.05.c" />
@@ -147,6 +149,7 @@
     <ClCompile Include="work3 24.11.19.c" />
     <ClCompile Include="work3 24.11.26.c" />
     <ClCompile Include="work3 24.12.03.cpp" />
+    <ClCompile Include="work3 24.12.10.c" />
     <ClCompile Include="work4 24.10.22.c" />
     <ClCompile Include="work4 24.10.30.c" />
     <ClCompile Include="work4 24.11.05.c" />
@@ -154,6 +157,7 @@
     <ClCompile Include="work4 24.11.19.c" />
     <ClCompile Include="work4 24.11.26.c" />
     <ClCompile Include="work4 24.12.03.cpp" />
+    <ClCompile Include="work4 24.12.10.c" />
     <ClCompile Include="work5 24.10.22.c" />
     <ClCompile Include="work5 24.10.30.c" />
     <ClCompile Include="work5 24.11.05.c" />
@@ -161,10 +165,13 @@
     <ClCompile Include="work5 24.11.19.c" />
     <ClCompile Include="work5 24.11.26.c" />
     <ClCompile Include="work5 24.12.03.cpp" />
+    <ClCompile Include="work5 24.12.10.c" />
     <ClCompile Include="work6 24.11.12.c" />
     <ClCompile Include="work6 24.11.19.c" />
     <ClCompile Include="work6 24.11.26.c" />
+    <ClCompile Include="work6 24.12.10.cpp" />
     <ClCompile Include="work7 24.11.26.c" />
+    <ClCompile Include="work7 24.12.11.c" />
     <ClCompile Include="workadd1 24.10.22.c" />
     <ClCompile Include="workadd1 24.10.30.c" />
     <ClCompile Include="workadd1 24.11.05.c" />
